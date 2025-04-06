@@ -7,6 +7,10 @@
     "colorthief": "^2.3.0",
     "enzyme": "^3.11.0",
     "enzyme-adapter-react-16": "^1.15.6",
+<<<<<<< HEAD
+=======
+    "gh-pages": "^2.1.1",
+>>>>>>> c271b61f8f4371edf043f44a9776a921f9aedb40
     "jest-canvas-mock": "^2.3.1",
     "lottie-react": "^2.4.0",
     "react": "^16.10.2",
@@ -52,7 +56,10 @@
   "devDependencies": {
     "@babel/plugin-proposal-private-property-in-object": "^7.21.11",
     "dotenv": "^8.2.0",
+<<<<<<< HEAD
     "gh-pages": "^6.3.0",
+=======
+>>>>>>> c271b61f8f4371edf043f44a9776a921f9aedb40
     "prettier": "^2.3.1"
   }
 }
